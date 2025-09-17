@@ -11,7 +11,7 @@ export default function ThemeToggle() {
       onClick={toggleMode}
       className="fixed top-4 right-4 p-2 rounded-full shadow-lg
                  bg-gray-800 dark:bg-pastelBlue
-                 transition-colors duration-500"
+                 transition-colors duration-500 hover:cursor-pointer"
     >
       {mode === "professional" ? (
         <Sun className="w-6 h-6 text-yellow-400" />
