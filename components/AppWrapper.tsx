@@ -16,7 +16,7 @@ export default function AppWrapper({
         ${
           mode === "professional"
             ? "bg-black text-white"
-            : "bg-pastelBlue text-coral bg-stars bg-cover"
+            : "text-coral bg-rainbow bg-cover"
         }`}
     >
       <ThemeToggle />

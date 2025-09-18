@@ -4,12 +4,12 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        pastelBlue: "#7edbebff",
+        pastelBlue: "#7edbeb",
         pastelPink: "#FFB6C1",
         coral: "#FF6F61",
       },
       backgroundImage: {
-        stars: "url('/susan-wilkinson-bv5X7oY5g5U-unsplash')",
+        rainbow: "url('/rainbow.jpg')",
       },
     },
   },
